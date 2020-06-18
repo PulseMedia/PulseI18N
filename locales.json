@@ -7,6 +7,10 @@
 		{
 			"name":"English",
 			"locale":"en_gb"
+		},
+		{
+			"name":"Test",
+			"locale":"en_gb"
 		}
 	]
 }
